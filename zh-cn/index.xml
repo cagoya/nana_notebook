@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on Hugo Narrow</title><link>https://cagoya.github.io/nana_notebook/zh-cn/</link><description>Recent content in 首页 on Hugo Narrow</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cagoya.github.io/nana_notebook/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>短代码</title><link>https://cagoya.github.io/nana_notebook/zh-cn/posts/%E7%9F%AD%E4%BB%A3%E7%A0%81/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://cagoya.github.io/nana_notebook/zh-cn/posts/%E7%9F%AD%E4%BB%A3%E7%A0%81/</guid><description>&lt;p>本页面展示了 Hugo Narrow 主题中所有可用的短代码。&lt;/p>
+&lt;h2 id="hugo-内置短代码">Hugo 内置短代码&lt;/h2>
+&lt;p>Hugo 提供了一些&lt;a href="https://gohugo.io/shortcodes/"target="_blank"
+ class="inline-flex items-center gap-1"
+>内置短代码&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>，这些内容不稳定并且随时可能变化，你可以访问页面找到详细使用说明。&lt;/p></description></item><item><title>Hugo - 世界上最快的网站构建框架</title><link>https://cagoya.github.io/nana_notebook/zh-cn/projects/hugo-framework/</link><pubDate>Tue, 20 Feb 2024 14:30:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/zh-cn/projects/hugo-framework/</guid><description>使用 Go 构建的快速灵活的静态站点生成器，为全球数千个网站提供支持。</description></item><item><title>图库</title><link>https://cagoya.github.io/nana_notebook/zh-cn/posts/%E5%9B%BE%E5%BA%93/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/zh-cn/posts/%E5%9B%BE%E5%BA%93/</guid><description>&lt;h1 id="图片渲染测试">图片渲染测试&lt;/h1>
+&lt;p>示例来自 &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
+ class="inline-flex items-center gap-1"
+>LightGallery&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>
+所有图片来自 &lt;a href="https://unsplash.com/"target="_blank"
+ class="inline-flex items-center gap-1"
+>Unsplash&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>&lt;/p>
+&lt;h2 id="单张图片">单张图片&lt;/h2>
+&lt;p>
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="true"
+ data-gallery-type="auto">
+ &lt;div class="image-container">
+ &lt;img
+ src="https://cagoya.github.io/nana_notebook/posts/image-gallery/bundle.avif"
+ alt="https://unsplash.com/@danielleone"
+ title="摄影师 - Daniel Leone"
+ 
+ 
+ 
+ 
+ loading="lazy"
+ decoding="async"
+ data-gallery-src="https://cagoya.github.io/nana_notebook/posts/image-gallery/bundle.avif"
+ data-gallery-alt="https://unsplash.com/@danielleone"
+ data-gallery-title="摄影师 - Daniel Leone" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ 摄影师 - Daniel Leone
+ &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Hugo Narrow 主题</title><link>https://cagoya.github.io/nana_notebook/zh-cn/projects/hugo-narrow-theme/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/zh-cn/projects/hugo-narrow-theme/</guid><description>基于 TailwindCSS 4 构建的现代 Hugo 主题，支持多种配色方案、暗色模式和响应式设计。</description></item><item><title>Markdown 语法指南</title><link>https://cagoya.github.io/nana_notebook/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</guid><description>这是一篇包含各种 Markdown 语法的文章。</description></item></channel></rss>

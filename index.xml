@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Hugo Narrow</title><link>https://cagoya.github.io/nana_notebook/</link><description>Recent content in Home on Hugo Narrow</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cagoya.github.io/nana_notebook/index.xml" rel="self" type="application/rss+xml"/><item><title>Shortcodes</title><link>https://cagoya.github.io/nana_notebook/posts/shortcodes/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://cagoya.github.io/nana_notebook/posts/shortcodes/</guid><description>&lt;p>This page demonstrates all available shortcodes in the Hugo Narrow theme.&lt;/p>
+&lt;h2 id="hugo-built-in-shortcodes">Hugo Built-in Shortcodes&lt;/h2>
+&lt;p>Hugo provides several &lt;a href="https://gohugo.io/shortcodes/"target="_blank"
+ class="inline-flex items-center gap-1"
+>built-in shortcodes&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>. The content of these shortcodes is subject to change without notice, so you can visit the official page for detailed usage instructions.&lt;/p></description></item><item><title>Hugo - The World's Fastest Framework</title><link>https://cagoya.github.io/nana_notebook/projects/hugo-framework/</link><pubDate>Tue, 20 Feb 2024 14:30:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/projects/hugo-framework/</guid><description>A fast and flexible static site generator built with Go, powering thousands of websites worldwide.</description></item><item><title>Image Gallery</title><link>https://cagoya.github.io/nana_notebook/posts/image-gallery/</link><pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/posts/image-gallery/</guid><description>&lt;h1 id="image-rendering-test">Image Rendering Test&lt;/h1>
+&lt;p>The Demo comes from &lt;a href="https://www.lightgalleryjs.com/demos/thumbnails/"target="_blank"
+ class="inline-flex items-center gap-1"
+>LightGallery&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>
+All images are from &lt;a href="https://unsplash.com/"target="_blank"
+ class="inline-flex items-center gap-1"
+>Unsplash&lt;svg class="h-3 w-3 flex-shrink-0" id="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>&lt;/svg>
+&lt;/a>&lt;/p>
+&lt;h2 id="single-image">Single Image&lt;/h2>
+&lt;p>
+&lt;figure class="image-figure not-prose my-8" 
+ data-lightbox-enabled="true"
+ data-gallery-type="auto">
+ &lt;div class="image-container">
+ &lt;img
+ src="https://cagoya.github.io/nana_notebook/posts/image-gallery/bundle.avif"
+ alt="https://unsplash.com/@danielleone)"
+ title="Photo by - Daniel Leone"
+ 
+ 
+ 
+ 
+ loading="lazy"
+ decoding="async"
+ data-gallery-src="https://cagoya.github.io/nana_notebook/posts/image-gallery/bundle.avif"
+ data-gallery-alt="https://unsplash.com/@danielleone)"
+ data-gallery-title="Photo by - Daniel Leone" />&lt;/div>
+
+ &lt;figcaption class="image-caption">
+ Photo by - Daniel Leone
+ &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Hugo Narrow Theme</title><link>https://cagoya.github.io/nana_notebook/projects/hugo-narrow-theme/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/projects/hugo-narrow-theme/</guid><description>A modern Hugo theme with multiple color schemes, dark mode support, and responsive design built on TailwindCSS 4.</description></item><item><title>Markdown Syntax Guide</title><link>https://cagoya.github.io/nana_notebook/posts/markdown-syntax-guide/</link><pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate><guid>https://cagoya.github.io/nana_notebook/posts/markdown-syntax-guide/</guid><description>This is a post which includes all available Markdown syntax.</description></item></channel></rss>
